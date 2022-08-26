@@ -1,0 +1,10 @@
+C:\Users\gbcgu\source\repos\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\gbcgu\source\repos\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\gbcgu\source\repos\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\gbcgu\source\repos\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\gbcgu\source\repos\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbcgu\source\repos\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\gbcgu\source\repos\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\gbcgu\source\repos\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\gbcgu\source\repos\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\gbcgu\source\repos\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
